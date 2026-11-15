@@ -1,5 +1,5 @@
-# Lista negra con nombres e IDs reales: solo vive en el computador del dueño
-.privacidad-local.txt
+# Denylist with real names and IDs: lives only on the owner's computer
+.privacy-local.txt
 .env
 .env.*
 *.local.json
