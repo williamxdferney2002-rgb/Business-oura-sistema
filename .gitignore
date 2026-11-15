@@ -1,0 +1,5 @@
+# Lista negra con nombres e IDs reales: solo vive en el computador del dueño
+.privacidad-local.txt
+.env
+.env.*
+*.local.json
