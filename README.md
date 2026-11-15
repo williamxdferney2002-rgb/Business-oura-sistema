@@ -56,6 +56,17 @@ Esta carpeta es la **versión pública** del proyecto, separada del repositorio 
 2. Se corre el verificador de privacidad: `python verificar_privacidad.py` debe terminar en `Resultado: 0 hallazgos.`
 3. Solo entonces se hace commit y push.
 
+## Autor
+
+**Ingeniero William Delgado** · Colombia · [GitHub](https://github.com/williamxdferney2002-rgb)
+
+Cofundador de Oura y autor del sistema. Diseñé la arquitectura y escribí el plan maestro (requisitos, fases, seguridad, modelo de datos). También creé el método multiagente y sus reglas, y dirigí a los agentes tarea por tarea: aprobé cada especificación, decidí en los conflictos e hice las pruebas de aceptación y la puesta en producción. En el resto de la documentación aparezco como "el dueño".
+
+Lo que muestra este proyecto:
+- **Dirigir agentes de IA como un equipo:** roles separados, auditoría independiente, especificaciones verificables y memoria en el repositorio.
+- **Automatización de procesos de negocio** con n8n, Google Apps Script, Google Sheets y APIs de IA (Gemini, Groq Whisper).
+- **Llevar un sistema de cero a producción en un mes**, con costo de infraestructura $0, pruebas automáticas y seguridad desde el diseño.
+
 ## Licencia
 
 Documentación y plantillas bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es): úsalas, adáptalas y cita la fuente.
